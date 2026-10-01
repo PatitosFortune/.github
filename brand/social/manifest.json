@@ -1,0 +1,96 @@
+{
+  "milestone": "M4",
+  "status": "approved",
+  "width": 1280,
+  "height": 640,
+  "safeMargin": 64,
+  "cards": [
+    {
+      "id": "social-preview-template",
+      "file": "social-preview-template.svg",
+      "theme": "paper",
+      "accent": "ochre",
+      "motif": "none",
+      "name": "Project name",
+      "fontSize": 80,
+      "titleLines": [
+        "Project name"
+      ],
+      "descriptorLines": [
+        "A concise description of the project and what it",
+        "explores."
+      ],
+      "markSource": "brand/source/geometric-duck.svg"
+    },
+    {
+      "id": "example-number-puzzle",
+      "file": "example-number-puzzle.svg",
+      "theme": "paper",
+      "accent": "ochre",
+      "motif": "number-grid",
+      "name": "Number\nPuzzle",
+      "fontSize": 80,
+      "titleLines": [
+        "Number",
+        "Puzzle"
+      ],
+      "descriptorLines": [
+        "Explore patterns, constraints and satisfying",
+        "solutions."
+      ],
+      "markSource": "brand/source/geometric-duck.svg"
+    },
+    {
+      "id": "example-game-companion",
+      "file": "example-game-companion.svg",
+      "theme": "ink",
+      "accent": "ochre",
+      "motif": "route",
+      "name": "Game\nCompanion",
+      "fontSize": 80,
+      "titleLines": [
+        "Game",
+        "Companion"
+      ],
+      "descriptorLines": [
+        "A field notebook for routes, discoveries and play."
+      ],
+      "markSource": "brand/avatars/duck-ink.svg"
+    },
+    {
+      "id": "example-data-tool",
+      "file": "example-data-tool.svg",
+      "theme": "paper",
+      "accent": "sage",
+      "motif": "data-bars",
+      "name": "Data Tool",
+      "fontSize": 80,
+      "titleLines": [
+        "Data Tool"
+      ],
+      "descriptorLines": [
+        "Inspect small datasets and turn observations into",
+        "useful views."
+      ],
+      "markSource": "brand/source/geometric-duck.svg"
+    },
+    {
+      "id": "example-simulation-lab",
+      "file": "example-simulation-lab.svg",
+      "theme": "paper",
+      "accent": "rust",
+      "motif": "oscillation",
+      "name": "Simulation\nLab",
+      "fontSize": 80,
+      "titleLines": [
+        "Simulation",
+        "Lab"
+      ],
+      "descriptorLines": [
+        "Explore changing systems through simple models and",
+        "repeatable experiments."
+      ],
+      "markSource": "brand/source/geometric-duck.svg"
+    }
+  ]
+}

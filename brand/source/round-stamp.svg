@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Patitos Fortune — Round Lab Stamp / Ink</title>
+  <desc id="desc">Approved M2 identity. Circular institutional seal, technical duck, lab name and EST. 2025. The date remains secondary.</desc>
+  <circle cx="256" cy="256" r="238" fill="#F5F0E6" stroke="#102A36" stroke-width="2.4"/>
+  <circle cx="256" cy="256" r="229" fill="none" stroke="#102A36" stroke-width="1"/>
+  <circle cx="256" cy="256" r="164" fill="none" stroke="#102A36" stroke-width="1.2"/>
+  <defs>
+    <path id="name-arc" d="M 56,256 A 200,200 0 0,1 456,256"/>
+    <path id="lab-arc" d="M 56,256 A 200,200 0 0,0 456,256"/>
+  </defs>
+  <g fill="#102A36" font-family="'Segoe UI', Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text font-size="26" letter-spacing="4"><textPath href="#name-arc" startOffset="50%">PATITOS FORTUNE</textPath></text>
+    <text font-size="19" letter-spacing="2.8"><textPath href="#lab-arc" startOffset="50%">CREATIVE SOFTWARE LAB</textPath></text>
+  </g>
+  <g fill="#102A36" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="1" text-anchor="middle">
+    <text x="65" y="260">EST.</text><text x="447" y="260">2025</text>
+  </g>
+  <svg x="96" y="96" width="320" height="320" viewBox="0 0 256 256">
+<polygon id="duck-bill" points="198,70 220,86 166,86" fill="#102A36" />
+
+<g fill="none" stroke="#102A36" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path id="duck-silhouette" d="M 32,114 L 80,118 124,122 154,136 136,86 139,66 148,54 166,44 188,50 198,70 220,86 166,86 196,124 196,166 160,210 86,210 42,166 Z" />
+    <path id="duck-body-seams" d="M 42,166 L 80,118 124,168 86,210 M 124,168 L 154,136 160,210 M 124,168 L 160,210 M 154,136 L 196,166" />
+    <path id="duck-neck-seams" d="M 136,86 L 166,86 154,136 196,124 M 166,86 L 166,44 M 166,86 L 198,70" />
+    <path id="duck-body-brace" d="M 124,168 L 196,166" />
+  </g>
+
+<circle id="duck-eye" cx="178" cy="65" r="2.2" fill="#102A36" />
+
+
+<g id="duck-pa-accent">
+    <path id="duck-pa-left-leg" d="M 86,210 L 124,168 154,136" fill="none" stroke="#102A36" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="duck-pa-right-leg" d="M 154,136 L 160,210" fill="none" stroke="#102A36" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="duck-pa-counter" d="M 124,168 L 154,136 156.521348,167.096629 Z" fill="none" stroke="#102A36" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+</svg>
+</svg>
