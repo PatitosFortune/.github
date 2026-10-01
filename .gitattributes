@@ -1,0 +1,3 @@
+# Preserve approved asset bytes and the frozen integrity hashes on every platform.
+# Do not let core.autocrlf normalize this deterministic identity repository.
+* -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

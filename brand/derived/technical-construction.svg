@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336" height="336" viewBox="0 0 336 336" role="img" aria-labelledby="title desc">
+  <title id="title">Patitos Fortune — technical construction study</title>
+  <desc id="desc">Approved M2 expressive derivative. Canonical technical PA duck with quiet, vertex-related compass and alignment guides. The duck and Ochre PA/beak retain their exact approved geometry and paint.</desc>
+  <rect width="336" height="336" fill="#F5F0E6" />
+  <g transform="translate(40 40)">
+    <g id="drafting-guides" fill="none" stroke="#AFBDB5" stroke-width=".6" stroke-linecap="round">
+      <circle cx="126" cy="127" r="92.135769" stroke="#102A36" opacity=".48" stroke-width="1" stroke-dasharray="4 2" />
+      <path d="M 76,230.75 L 176,23.25" stroke-width=".65" opacity=".9" />
+      <path d="M 126,25 V 231 M 17,127 H 258" stroke="#102A36" opacity=".40" stroke-dasharray="4 3 1 3" stroke-width=".8" />
+      <path d="M 148,44 H 241 M 17,210 H 241 M 32,97 V 231 M 220,64 V 231" opacity=".82" stroke-width=".6" />
+      <path d="M 204.633498,190.297779 A 74.242845,74.242845 0 0 1 119.145096,201.552541" stroke="#102A36" opacity=".38" stroke-width=".8" />
+      <g stroke="#102A36" opacity=".4" stroke-width=".65">
+        <path d="M 164,44 H 168 M 166,42 V 46" />
+        <path d="M 84,210 H 88 M 86,208 V 212" />
+        <path d="M 30,114 H 34 M 32,112 V 116" />
+        <path d="M 218,86 H 222 M 220,84 V 88" />
+        <path d="M 124,127 H 128 M 126,125 V 129" />
+        <path d="M 152,136 H 156 M 154,134 V 138" />
+        <path d="M 158,210 H 162 M 160,208 V 212" />
+      </g>
+    </g>
+    <g id="canonical-duck">
+      <polygon id="bill" points="198,70 220,86 166,86" fill="#C49449" />
+      <g fill="none" stroke="#102A36" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path id="silhouette" d="M 32,114 L 80,118 124,122 154,136 136,86 139,66 148,54 166,44 188,50 198,70 220,86 166,86 196,124 196,166 160,210 86,210 42,166 Z" />
+        <path id="body-seams" d="M 42,166 L 80,118 124,168 86,210 M 124,168 L 154,136 160,210 M 124,168 L 160,210 M 154,136 L 196,166" />
+        <path id="neck-seams" d="M 136,86 L 166,86 154,136 196,124 M 166,86 L 166,44 M 166,86 L 198,70" />
+        <path id="body-brace" d="M 124,168 L 196,166" />
+      </g>
+      <circle id="eye" cx="178" cy="65" r="2.2" fill="#102A36" />
+      <g id="pa-accent">
+        <path id="pa-left-leg" d="M 86,210 L 124,168 154,136" fill="none" stroke="#C49449" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+        <path id="pa-right-leg" d="M 154,136 L 160,210" fill="none" stroke="#C49449" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+        <path id="pa-counter" d="M 124,168 L 154,136 156.521348,167.096629 Z" fill="none" stroke="#C49449" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <path id="ochre-registration-marker" fill="#C49449" d="M 248,120 Q 248,127 255,127 Q 248,127 248,134 Q 248,127 241,127 Q 248,127 248,120 Z" />
+  </g>
+</svg>

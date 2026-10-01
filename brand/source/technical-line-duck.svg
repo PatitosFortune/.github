@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Patitos Fortune — technical PA duck</title>
+  <desc id="desc">The technical duck with an Ochre-filled beak and complete Ochre A construction: both legs and the shared counter. The lower-body P shares the same geometry. All remaining construction and the eye stay Ink.</desc>
+
+  <!-- The bill facet is borrowed exactly from the filled master; its Ink boundary stays visible. -->
+  <polygon id="bill" points="198,70 220,86 166,86" fill="#C49449"/>
+  <g fill="none" stroke="#102A36" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path id="silhouette" d="M 32,114 L 80,118 124,122 154,136 136,86 139,66 148,54 166,44 188,50 198,70 220,86 166,86 196,124 196,166 160,210 86,210 42,166 Z"/>
+    <path id="body-seams" d="M 42,166 L 80,118 124,168 86,210 M 124,168 L 154,136 160,210 M 124,168 L 160,210 M 154,136 L 196,166"/>
+    <path id="neck-seams" d="M 136,86 L 166,86 154,136 196,124 M 166,86 L 166,44 M 166,86 L 198,70"/>
+    <path id="body-brace" d="M 124,168 L 196,166"/>
+  </g>
+  <circle id="eye" cx="178" cy="65" r="2.2" fill="#102A36"/>
+  <!-- Approved 2026-10-01. The complete lower-body A and shared P counter use Ochre.
+       This secondary mark complements the primary faceted duck; it does not replace it. -->
+  <g id="pa-accent">
+    <path id="pa-left-leg" d="M 86,210 L 124,168 154,136" fill="none" stroke="#C49449" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="pa-right-leg" d="M 154,136 L 160,210" fill="none" stroke="#C49449" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="pa-counter" d="M 124,168 L 154,136 156.521348,167.096629 Z" fill="none" stroke="#C49449" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

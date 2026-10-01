@@ -1,0 +1,50 @@
+{
+  "milestone": "M5",
+  "status": "approved",
+  "date": "2026-10-01",
+  "approvedVisualMilestones": [
+    "M1",
+    "M2",
+    "M3",
+    "M4"
+  ],
+  "suites": {
+    "core": "PASS",
+    "family": "PASS",
+    "expressive": "PASS",
+    "profile": "PASS",
+    "social": "PASS"
+  },
+  "browser": "154.0.4258.48",
+  "python": "3.14.7",
+  "node": "24.21.0",
+  "preservedPreM5ArtworkAndInputFiles": 37,
+  "integrityManifestFiles": 38,
+  "svgAndGeneratedManifestDeterminism": "PASS",
+  "pngDimensionsOpacityAndSize": "PASS: 6 avatars at 512x512; 4 fictional social exports at 1280x640",
+  "resolvedDefects": [
+    "Profile render validation no longer requires an external historical hash file.",
+    "Obsolete palette milestone wording corrected; dependent documentation hashes deliberately refreshed."
+  ],
+  "knownLimits": [
+    "Transient Ink-avatar raster hash mismatch returned to approved bytes on repeat export; PNG bytes require comparison.",
+    "Local GitHub previews; no live publication or third-party crop verification.",
+    "Other fonts/scripts/browsers and physical printing require applicable future review."
+  ],
+  "deployment": "Commit, branch push and PR against main authorized; no merge, settings changes, asset uploads, other-repository rollout or website implementation.",
+  "publicAudit": {
+    "utf8SourceAndDocFiles": 60,
+    "svgFiles": 24,
+    "localMarkdownLinks": 138,
+    "result": "PASS",
+    "scope": "All repository files inspected; no personal paths, credential patterns, private-project identifiers, font binaries or review screenshots in public output."
+  },
+  "finalIntegrity": "PASS: 38 manifest entries match",
+  "approvedMilestones": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "M5"
+  ]
+}

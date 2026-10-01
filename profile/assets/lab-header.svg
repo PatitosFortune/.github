@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="256" viewBox="0 0 1040 256" role="img" aria-labelledby="title desc">
+  <title id="title">Patitos Fortune â€” Creative Software Lab</title>
+  <desc id="desc">Organization-profile lab label with the approved colorful primary duck and secondary EST. 2025. Approved M3 organization-profile presentation.</desc>
+  <rect width="1040" height="256" fill="#F5F0E6" />
+  <rect x="16" y="16" width="1008" height="224" fill="none" stroke="#102A36" stroke-width="1.4" />
+  <rect x="24" y="24" width="992" height="208" fill="none" stroke="#102A36" stroke-width="0.65" />
+  <path d="M 244,24 V 232 M 244,184 H 1016" fill="none" stroke="#102A36" stroke-width=".7" />
+  <svg id="primary-duck" x="32" y="24" width="208" height="208" viewBox="0 0 256 256">
+    <defs>
+      <path id="silhouette" d="M 32,114 L 80,118 124,122 154,136 136,86 139,66 148,54 166,44 188,50 198,70 220,86 166,86 196,124 196,166 160,210 86,210 42,166 Z" />
+      <clipPath id="duck-clip">
+        <use href="#silhouette" />
+      </clipPath>
+    </defs>
+    <g id="facets" clip-path="url(#duck-clip)" stroke-width="0.5" stroke-linejoin="round">
+      <polygon id="tail" fill="#102A36" stroke="#102A36" points="32,114 80,118 42,166" />
+      <polygon id="wing" fill="#628580" stroke="#628580" points="80,118 124,168 86,210 42,166" />
+      <polygon id="back" fill="#F5F0E6" stroke="#F5F0E6" points="80,118 124,122 154,136 124,168" />
+      <polygon id="fold" fill="#BA6041" stroke="#BA6041" points="124,168 154,136 160,210" />
+      <polygon id="keel" fill="#102A36" stroke="#102A36" points="86,210 124,168 160,210" />
+      <polygon id="breast" fill="#102A36" stroke="#102A36" points="154,136 196,166 160,210" />
+      <polygon id="neck-front" fill="#102A36" stroke="#102A36" points="154,136 196,124 196,166" />
+      <polygon id="neck-plane" fill="#52616A" stroke="#52616A" points="166,86 196,124 154,136" />
+      <polygon id="neck-fold" fill="#628580" stroke="#628580" points="136,86 166,86 154,136" />
+      <polygon id="crown" fill="#102A36" stroke="#102A36" points="136,86 139,66 148,54 166,44 166,86" />
+      <polygon id="head" fill="#C49449" stroke="#C49449" points="166,44 188,50 198,70 166,86" />
+      <polygon id="bill" fill="#102A36" stroke="#102A36" points="198,70 220,86 166,86" />
+    </g>
+    <circle id="eye" cx="178" cy="65" r="2.2" fill="#102A36" />
+  </svg>
+  <text x="286" y="106" font-size="49" font-family="Georgia, 'Times New Roman', serif" fill="#102A36" letter-spacing="4">PATITOS FORTUNE</text>
+  <text x="290" y="150" font-size="21" font-family="'Segoe UI', Arial, Helvetica, sans-serif" fill="#102A36" letter-spacing="4.7">CREATIVE SOFTWARE LAB</text>
+  <text x="290" y="215" font-size="14" font-family="Consolas, 'Liberation Mono', monospace" fill="#102A36" letter-spacing="2.4">EST. 2025</text>
+</svg>
