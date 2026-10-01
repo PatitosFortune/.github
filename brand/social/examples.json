@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "cards": [
-    {"id":"example-number-puzzle","name":"Number\nPuzzle","descriptor":"Explore patterns, constraints and satisfying solutions.","category":"Puzzles","accent":"ochre","theme":"paper","motif":"number-grid","catalogueId":"STUDY 01","sample":true},
-    {"id":"example-game-companion","name":"Game\nCompanion","descriptor":"A field notebook for routes, discoveries and play.","category":"Games","accent":"ochre","theme":"ink","motif":"route","catalogueId":"STUDY 02","sample":true},
-    {"id":"example-data-tool","name":"Data Tool","descriptor":"Inspect small datasets and turn observations into useful views.","category":"Tools","accent":"sage","theme":"paper","motif":"data-bars","catalogueId":"STUDY 03","sample":true},
-    {"id":"example-simulation-lab","name":"Simulation\nLab","descriptor":"Explore changing systems through simple models and repeatable experiments.","category":"Simulations","accent":"rust","theme":"paper","motif":"oscillation","catalogueId":"STUDY 04","sample":true}
-  ]
-}
